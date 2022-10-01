@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="2 - AtividadeOperadoresESintaxeParte1"/>
+	<classpathentry kind="src" path="2 - AtividadeOperadoresESintaxeParte2"/>
+	<classpathentry kind="src" path="2 - AtividadeOperadoresESintaxeParte3"/>
+	<classpathentry kind="src" path="3 - AtividadeVisibilidadeEncapsulamento"/>
+	<classpathentry kind="src" path="4 - AtividadeConstrutores"/>
+	<classpathentry kind="src" path="4 - AtividadeSobrecargaDeMetodos"/>
+	<classpathentry kind="src" path="5 - AtividadeReusoDeClasses"/>
+	<classpathentry kind="src" path="6 - AtividadeSobrescrita"/>
+	<classpathentry kind="src" path="6 - AtividadePassagemDeParametros"/>
+	<classpathentry kind="src" path="7 - AtividadeExcecoes1"/>
+	<classpathentry kind="src" path="7 - AtividadeExcecoes2"/>
+	<classpathentry kind="src" path="8 - AtividadeInterfaces"/>
+	<classpathentry kind="src" path="8 - AtividadeClassesAbstratas"/>
+	<classpathentry kind="src" path="9 - AtividadePolimorfismo"/>
+	<classpathentry kind="src" path="10 - AtividadeProjetoDeArquitetura"/>
+	<classpathentry kind="src" path="12 - AtividadeInterfaceGrafica"/>
+	<classpathentry kind="src" path="13 - AtividadeJarEJavadoc"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
