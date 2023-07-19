@@ -1,4 +1,4 @@
-## :books: ESTUDOS - Estruturas de dados 2021
+## :books: ESTUDOS - POO (Orientação à Objetos) 2021
 
 ## :file_folder: Sobre o repositório
 <p align="justify">
